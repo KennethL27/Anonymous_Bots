@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-  These Anonymous Bots are created specifically for University of Calfornia, Santa Barbara Physics Discord. The intent of these Bots are meant to create a welcoming enviornment and a platform for anyone to ask a question or to respond with anonymity. These Anonymous Bots are made by using <a href="https://discordpy.readthedocs.io/en/latest/">Discord's Python API</a>. As the UCSB Physics Discord Community continues to grow, these Anonymous Bots will become more user friendly.
+  These Anonymous Bots are created specifically for University of Calfornia, Santa Barbara Physics Discord. The intent of these Bots are meant to create a welcoming enviornment and a platform for anyone to ask a question or to respond with anonymity. These Anonymous Bots are made by using <a href="https://discordpy.readthedocs.io/en/latest/">Discord's Python API</a>. As the UCSB Physics Discord Community continues to grow, these Anonymous Bots will become more user friendly. Currently UCSB Physics Discord has Anonymous Hotline (Rant Channel), Anonymous Spam (Spam Channel), Anonymous Advising (Advising Channel), and Anonymous User (used for Townhall and AMA Event).
 </td>
 </tr>
 </table>
